@@ -1,0 +1,99 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **BUSINESS UNDERSTANDING**\n"
+      ],
+      "metadata": {
+        "id": "80U8FRiZuJqB"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## **Business Objective**"
+      ],
+      "metadata": {
+        "id": "onl5HW5TuaXS"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Tujuan Utama analisis ini adalah untuk menganalisis penjualan *Video Game* pada tahun 2024 guna untuk mengidentifikasi *Genre* apa yang mengalami penjualan tertinggi, Developer apa yang paling banyak diminati, *Video Game* jenis Konsol apa yang paling banyak di minati, dan wilayah mana yang memiliki penjualan terbesar. Selain itu, tujuan ini untuk melihat tinggi rendahnya korelasi antara skor kritik dan total penjualan."
+      ],
+      "metadata": {
+        "id": "K7ez2dfCuj1w"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## **Assess Situation**"
+      ],
+      "metadata": {
+        "id": "Xpj82A1LvEWT"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Situasi yang mendasari analisis ini adalah persaingan atau kompetitif antar developer dan perbedaan hasil penjualan berdasarkan wilayah. perubahan tren seperti genre dan jenis konsol yang diminati oleh konsumen mengharuskan para developer untuk memiliki pemahaman yang mendalam terhadap minat konsumen. pengembangan jenis game yang inovatif dan tidak hanya \"itu-itu\" saja juga sangat diperlukan agar dapat memberikan pengalaman yang baik dan konsumen tidak merasa bosan."
+      ],
+      "metadata": {
+        "id": "6WPZ2pszvKfM"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## **Data Mining Goals**"
+      ],
+      "metadata": {
+        "id": "WJ_wb0q2vK8F"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Menganalisis tren penjualan video game untuk memberikan wawasan bagi publisher dan developer dalam meningkatkan strategi. Mengidentifikasi minat konsumen terhadap *Video game* dengan mengamati pola pembelian data penjualan *Video Game* pada tahun 2024, serta menganalisis informasi tentang penjualan video game, termasuk judul, platform, genre, publisher, developer, skor kritik, dan total penjualan di berbagai wilayah yang bertujuan untuk memahami tren dan pola penjualan, Strategi Pemasaran dan Prediksi Penjualan untuk kedepannya."
+      ],
+      "metadata": {
+        "id": "ifKm_ocrvQe5"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## **Project Plan**"
+      ],
+      "metadata": {
+        "id": "9sGQxCIhvQ6b"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Langkah-langkah yang di ambil untuk menganalisis data ini mencakup Preprocessing Data (membersihkan data), Analisis penjualan di berbagai wilayah, menganalisis fitur-fitur yang ada di data (Nama Game, Genre, jenis console, Tahun Rilis, Publisher dan Developer, Total Penjualan(Keseluruhan dan masing-masing wilayah)). Rencana ini dilakukan guna Memberikan pandangan atau informasi kepada publisher, developer, dan tim pemasaran dalam meningkatkan strategi distribusi dan promosi."
+      ],
+      "metadata": {
+        "id": "OfMD1ASlvXqx"
+      }
+    }
+  ]
+}
