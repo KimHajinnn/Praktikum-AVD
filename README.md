@@ -1,3 +1,4 @@
 # Praktikum-AVD
-/nNama    : Christian Amsal Asimaro Lumban Tobing
-/nNIM     : 2409116053
+Nama    : Christian Amsal Asimaro Lumban Tobing
+
+NIM     : 2409116053
